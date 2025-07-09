@@ -5,5 +5,3 @@ A simple automation script that builds and runs a Docker container for your stat
 
 ---
 
-## 📦 Project Structure
-
